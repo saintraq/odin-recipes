@@ -1,0 +1,1 @@
+This project is intended for me to utilize new skills of setting up a basic html website and learn how to create good commit messages during the process
